@@ -9,7 +9,7 @@
 5. 进入上一步选择的 `Plugin Folder`，执行`ln -s {source_path.index.js} topten.30m.js`。其中`{soucce_path}` 用之前的项目路径替换。`topten` 随意取，`30m` 表示每30分钟更新一次。
 6. 执行`./topten.30m.js`。
 
-以上过程可能需要 `chimed +x filename`
+以上过程可能需要 `chmod +x filename`
 
 ## TODO
 
